@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome to WCL Account
+## Wireless Communication LAB, Incheon National University
+### Department of Embedded System Engineering
 
 <!--
 
