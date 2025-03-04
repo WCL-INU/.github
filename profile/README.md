@@ -1,9 +1,71 @@
-# Welcome to WCL Account
-## Wireless Communication LAB, Incheon National University
-### Department of Embedded System Engineering
+# 🏫 Wireless Communication Lab
+**Incheon National University**
+
+Department of Embedded System Engineering
+
+Welcome to the **Wireless Communication Lab** at **Incheon National University**.  
+We specialize in **Vision Process, IoT Systems**.
+
+---
+
+## 📌 Faculty & Members
+
+### 👨‍🏫 Professor
+- **Byoung-Jo Choi** (Principal Investigator)
+  - 📧 Email: bjc97r@inu.ac.kr
+  - 🔗 [GitHub](@bjc97r)
 
 <!--
+### 🎓 Graduate Students
+- **[Student Full Name]** (M.S./Ph.D. Candidate)  
+  - 🏷️ Research Focus: [e.g., Computer Vision, Robotics]  
+  - 📧 Email: [email@example.com]  
+  - 🔗 [Google Scholar](#) | [LinkedIn](#) | [GitHub](#)
 
+- **[Student Full Name]** (M.S./Ph.D. Candidate)  
+  - 🏷️ Research Focus: [e.g., Embedded Systems, Edge Computing]  
+  - 📧 Email: [email@example.com]  
+  - 🔗 [Google Scholar](#) | [LinkedIn](#) | [GitHub](#)
+  -->
+
+### 🎓 Graduate Students
+- **Kwangjin Choi** (M.S. Candidate)  
+  <!-- - 🏷️ Research Focus: [e.g., Embedded Systems, Edge Computing]  -->
+  - 📧 Email: chgj1995@inu.ac.kr
+  - 🔗 [GitHub](@chgj1995)
+
+### 🎓 Undergraduate Researchers
+- **Jinseong Lee**  
+  - 🏷️ Research Interest: Vision System, Depth Map
+  - 📧 Email: awwdde22ljs@gmail.com/awwdde22ljs@inu.ac.kr
+  - 🔗 [GitHub](@Bina-Lee)
+- **Si-U Pak**  
+  <!-- - 🏷️ Research Interest: -->
+  - 📧 Email: cu@inu.ac.kr
+  - 🔗 [GitHub](@atomicNum29)
+- **Soyun Park**  
+  <!-- - 🏷️ Research Interest: -->
+  - 📧 Email: asz1218@inu.ac.kr
+  - 🔗 [GitHub](@psy1218)
+    
+---
+
+<!--
+## 🏛 Research Areas
+- ✅ **[Research Topic 1]**: Brief description.
+- ✅ **[Research Topic 2]**: Brief description.
+- ✅ **[Research Topic 3]**: Brief description.
+
+## 📢 Contact Us
+📍 **Location:** [University Address]  
+✉️ **Email:** [lab.email@example.com]  
+🌐 **Website:** [Lab Website](#)  
+-->
+---
+
+> 📌 *For more information, visit our official website or check out our latest research projects!*
+
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
