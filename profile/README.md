@@ -13,7 +13,7 @@ We specialize in **Vision Process, IoT Systems**.
 ### 👨‍🏫 Professor
 - **Byoung-Jo Choi** (Principal Investigator)
   - 📧 Email: bjc97r@inu.ac.kr
-  - 🔗 [GitHub](@bjc97r)
+  - 🔗 [GitHub](@bjc97r) : @bjc97r
 
 <!--
 ### 🎓 Graduate Students
@@ -32,21 +32,21 @@ We specialize in **Vision Process, IoT Systems**.
 - **Kwangjin Choi** (M.S. Candidate)  
   <!-- - 🏷️ Research Focus: [e.g., Embedded Systems, Edge Computing]  -->
   - 📧 Email: chgj1995@inu.ac.kr
-  - 🔗 [GitHub](@chgj1995) : chgj1995
+  - 🔗 [GitHub](@chgj1995) : @chgj1995
 
 ### 🎓 Undergraduate Researchers
 - **Jinseong Lee**  
   - 🏷️ Research Interest: Vision System, Depth Map
   - 📧 Email: awwdde22ljs@gmail.com/awwdde22ljs@inu.ac.kr
-  - 🔗 [GitHub](@Bina-Lee) : Bina-Lee
+  - 🔗 [GitHub](@Bina-Lee) : @Bina-Lee
 - **Si-U Pak**  
   <!-- - 🏷️ Research Interest: -->
   - 📧 Email: cu@inu.ac.kr
-  - 🔗 [GitHub](@atomicNum29) : atomicNum29
+  - 🔗 [GitHub](@atomicNum29) : @atomicNum29
 - **Soyun Park**  
   <!-- - 🏷️ Research Interest: -->
   - 📧 Email: asz1218@inu.ac.kr
-  - 🔗 [GitHub](@psy1218) : psy1218
+  - 🔗 [GitHub](@psy1218) : @psy1218
     
 ---
 
