@@ -39,7 +39,7 @@ We specialize in **Vision Process, IoT Systems**.
   - 🏷️ Research Interest: Vision System, Depth Map
   - 📧 Email: awwdde22ljs@gmail.com/awwdde22ljs@inu.ac.kr
   - 🔗 [GitHub : @Bina-Lee](@Bina-Lee)
-- **Si-U Pak**  
+- **Si-u Bak**  
   <!-- - 🏷️ Research Interest: -->
   - 📧 Email: cu@inu.ac.kr
   - 🔗 [GitHub : @atomicNum29](@atomicNum29)
