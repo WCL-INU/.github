@@ -33,8 +33,6 @@ We specialize in **Vision Process, IoT Systems**.
   <!-- - 🏷️ Research Focus: [e.g., Embedded Systems, Edge Computing]  -->
   - 📧 Email: chgj1995@inu.ac.kr
   - 🔗 [GitHub : @chgj1995](@chgj1995)
-
-### 🎓 Undergraduate Researchers
 - **Jinseong Lee**  
   - 🏷️ Research Interest: Vision System, Depth Map
   - 📧 Email: awwdde22ljs@gmail.com/awwdde22ljs@inu.ac.kr
@@ -43,10 +41,15 @@ We specialize in **Vision Process, IoT Systems**.
   <!-- - 🏷️ Research Interest: -->
   - 📧 Email: cu@inu.ac.kr
   - 🔗 [GitHub : @atomicNum29](@atomicNum29)
+
+### 🎓 Undergraduate Researchers
 - **Soyun Park**  
   <!-- - 🏷️ Research Interest: -->
   - 📧 Email: asz1218@inu.ac.kr
   - 🔗 [GitHub : @psy1218](@psy1218)
+- **Daejun Yun**  
+  <!-- - 🏷️ Research Interest: -->
+  - 📧 Email: daramg0214@inu.ac.kr
     
 ---
 
