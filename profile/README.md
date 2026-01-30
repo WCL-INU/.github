@@ -34,8 +34,8 @@ We specialize in **Vision Process, IoT Systems**.
   - 📧 Email: chgj1995@inu.ac.kr
   - 🔗 [GitHub : @chgj1995](@chgj1995)
 - **Jinseong Lee**  
-  - 🏷️ Research Interest: Vision System, Depth Map
-  - 📧 Email: awwdde22ljs@gmail.com/awwdde22ljs@inu.ac.kr
+  - 🏷️ Research Interest: Sensor placement, Design optimization
+  - 📧 Email: awwdde22ljs@gmail.com/binalee@inu.ac.kr
   - 🔗 [GitHub : @Bina-Lee](@Bina-Lee)
 - **Si-u Bak**  
   <!-- - 🏷️ Research Interest: -->
