@@ -43,14 +43,15 @@ We specialize in **Vision Process, IoT Systems**.
   - 🔗 [GitHub : @atomicNum29](@atomicNum29)
 
 ### 🎓 Undergraduate Researchers
-- **Soyun Park**  
-  <!-- - 🏷️ Research Interest: -->
-  - 📧 Email: asz1218@inu.ac.kr
-  - 🔗 [GitHub : @psy1218](@psy1218)
+
 - **Daejun Yun**  
   <!-- - 🏷️ Research Interest: -->
   - 📧 Email: daramg0214@inu.ac.kr
-    
+
+## Alumni
+- Soyun Park - 🔗 [GitHub : @psy1218](@psy1218)
+
+
 ---
 
 <!--
